@@ -155,7 +155,7 @@
     "regenerator-runtime": "0.13.9",
     "reselect": "4.0.0",
     "resize-observer-polyfill": "1.5.1",
-    "sanitize-html": "2.3.3",
+    "sanitize-html": "2.12.1",
     "styled-components": "4.4.1",
     "universal-cookie": "4.0.4",
     "urql": "2.1.3",
