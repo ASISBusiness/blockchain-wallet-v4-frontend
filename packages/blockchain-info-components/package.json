@@ -59,7 +59,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "7.12.1",
-    "@blockchain-com/constellation": "0.0.35",
+    "@blockchain-com/constellation": "0.1.0",
     "@blockchain-com/icons": "0.0.6",
     "polished": "4.1.1",
     "prop-types": "15.7.2",
@@ -69,7 +69,7 @@
     "react-onclickoutside": "6.10.0",
     "react-select": "3.0.3",
     "react-tooltip": "3.10.0",
-    "styled-components": "4.4.1"
+    "styled-components": "6.1.0"
   },
   "devDependencies": {
     "@storybook/cli": "6.2.9"
